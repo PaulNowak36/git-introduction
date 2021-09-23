@@ -1,4 +1,3 @@
-Project presentation
+Old color: blue
 
--item 1
--item 2
+New color: red
